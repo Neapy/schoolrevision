@@ -4,4 +4,4 @@ Welcome!!!!
 
 ### CHOSE YOUR REVISION
 
-[Maths](https://github.com/Neapy/schoolrevision/game2048.html)
+[Maths](https://github.com/Neapy/schoolrevision/game2048)
